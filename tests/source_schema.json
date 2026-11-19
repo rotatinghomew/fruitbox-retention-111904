@@ -1,0 +1,71 @@
+{
+  "accounts": [
+    [
+      "handle",
+      "confirmed_payer",
+      "channel",
+      "contact_permission",
+      "recorded_at"
+    ],
+    [
+      "handle"
+    ]
+  ],
+  "bindings": [
+    [
+      "left_handle",
+      "right_handle",
+      "household",
+      "known_at",
+      "evidence",
+      "effective_from"
+    ],
+    []
+  ],
+  "purchases": [
+    [
+      "order",
+      "payer_handle",
+      "recipient_handle",
+      "source_context",
+      "paid_at",
+      "returns_known_at",
+      "outcome",
+      "replacement_of",
+      "margin_cents"
+    ],
+    [
+      "order"
+    ]
+  ],
+  "offers": [
+    [
+      "offer",
+      "handle",
+      "batch",
+      "mechanism",
+      "assignment",
+      "treat_probability",
+      "assigned_at",
+      "transfer_possible"
+    ],
+    [
+      "offer"
+    ]
+  ],
+  "coupons": [
+    [
+      "coupon",
+      "offer",
+      "sent_to",
+      "cents",
+      "issued_at",
+      "expires_at",
+      "state",
+      "redeemed_by"
+    ],
+    [
+      "coupon"
+    ]
+  ]
+}

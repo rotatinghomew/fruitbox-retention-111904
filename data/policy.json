@@ -1,0 +1,16 @@
+{
+  "repurchase_window_days": 30,
+  "checkpoints": [
+    "2026-09-15T20:00:00+08:00",
+    "2026-10-20T20:00:00+08:00",
+    "2026-11-14T20:00:00+08:00",
+    "2026-11-18T20:00:00+08:00"
+  ],
+  "current_campaign": {
+    "budget_cents": 18600,
+    "coupon_cents": 1800,
+    "valid_until": "2026-11-27T20:00:00+08:00",
+    "max_contacts_per_day": 5,
+    "preserve_holdout_share": 0.3
+  }
+}
