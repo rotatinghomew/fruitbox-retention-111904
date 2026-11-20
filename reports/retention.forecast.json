@@ -1,0 +1,28 @@
+{
+  "budget_cents": 18600,
+  "campaign": "week-2026-11-19",
+  "contact_slots": 9,
+  "coupon_cents": 1800,
+  "coupon_units": [
+    "payer:C0039",
+    "payer:C0207",
+    "payer:C0102",
+    "payer:C0282",
+    "payer:C0132",
+    "payer:C0204",
+    "payer:C0076",
+    "payer:C0046",
+    "payer:C0203"
+  ],
+  "eligibility_as_of": "2026-11-18T20:00:00+08:00",
+  "expected_incremental_repurchases": -0.7429494712103408,
+  "expected_net_cents": -18027.458725029377,
+  "holdout_units": [
+    "payer:C0103",
+    "payer:C0071",
+    "payer:C0141",
+    "payer:C0303"
+  ],
+  "made_at": "2026-11-19T09:00:00+08:00",
+  "valid_until": "2026-11-27T20:00:00+08:00"
+}

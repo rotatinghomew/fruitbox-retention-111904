@@ -1,0 +1,531 @@
+{
+  "allocations": [
+    {
+      "comparison_eligible": true,
+      "handles": [
+        "APP0039"
+      ],
+      "never_couponed": true,
+      "role": "coupon",
+      "stratum": "App|团购|120+",
+      "unit": "payer:C0039"
+    },
+    {
+      "comparison_eligible": true,
+      "handles": [
+        "APP0207",
+        "SHOP0207"
+      ],
+      "never_couponed": true,
+      "role": "coupon",
+      "stratum": "App|团购|31-60",
+      "unit": "payer:C0207"
+    },
+    {
+      "comparison_eligible": true,
+      "handles": [
+        "APP0102"
+      ],
+      "never_couponed": true,
+      "role": "coupon",
+      "stratum": "App|团购|61-90",
+      "unit": "payer:C0102"
+    },
+    {
+      "comparison_eligible": true,
+      "handles": [
+        "APP0282"
+      ],
+      "never_couponed": true,
+      "role": "coupon",
+      "stratum": "App|团购|91-120",
+      "unit": "payer:C0282"
+    },
+    {
+      "comparison_eligible": true,
+      "handles": [
+        "APP0132"
+      ],
+      "never_couponed": true,
+      "role": "coupon",
+      "stratum": "App|礼赠|120+",
+      "unit": "payer:C0132"
+    },
+    {
+      "comparison_eligible": true,
+      "handles": [
+        "APP0204"
+      ],
+      "never_couponed": true,
+      "role": "coupon",
+      "stratum": "App|礼赠|61-90",
+      "unit": "payer:C0204"
+    },
+    {
+      "comparison_eligible": true,
+      "handles": [
+        "APP0076"
+      ],
+      "never_couponed": true,
+      "role": "coupon",
+      "stratum": "App|礼赠|91-120",
+      "unit": "payer:C0076"
+    },
+    {
+      "comparison_eligible": true,
+      "handles": [
+        "APP0046"
+      ],
+      "never_couponed": true,
+      "role": "coupon",
+      "stratum": "App|自用|120+",
+      "unit": "payer:C0046"
+    },
+    {
+      "comparison_eligible": true,
+      "handles": [
+        "APP0203",
+        "SHOP0203"
+      ],
+      "never_couponed": false,
+      "role": "coupon",
+      "stratum": "App|自用|31-60",
+      "unit": "payer:C0203"
+    },
+    {
+      "comparison_eligible": true,
+      "handles": [
+        "APP0103",
+        "SHOP0103"
+      ],
+      "never_couponed": true,
+      "role": "holdout",
+      "stratum": "App|自用|61-90",
+      "unit": "payer:C0103"
+    },
+    {
+      "comparison_eligible": true,
+      "handles": [
+        "APP0071",
+        "SHOP0071"
+      ],
+      "never_couponed": true,
+      "role": "holdout",
+      "stratum": "App|自用|91-120",
+      "unit": "payer:C0071"
+    },
+    {
+      "comparison_eligible": true,
+      "handles": [
+        "APP0141",
+        "SHOP0141"
+      ],
+      "never_couponed": true,
+      "role": "holdout",
+      "stratum": "App|团购|120+",
+      "unit": "payer:C0141"
+    },
+    {
+      "comparison_eligible": true,
+      "handles": [
+        "APP0303",
+        "SHOP0303"
+      ],
+      "never_couponed": false,
+      "role": "holdout",
+      "stratum": "App|团购|31-60",
+      "unit": "payer:C0303"
+    }
+  ],
+  "anonymous_estimate": {
+    "contactable": false,
+    "high": 0.24249400665524085,
+    "low": 2.7755575615628914e-17,
+    "note": "未登录访客只能给出整体留存范围，不能列为可联系对象。",
+    "point": 0.0,
+    "repurchases": 0,
+    "units": 12
+  },
+  "daily_slots": [
+    [
+      "2026-11-19",
+      5
+    ],
+    [
+      "2026-11-20",
+      4
+    ]
+  ],
+  "exclusions": [
+    {
+      "reason": "身份未确认，仅可作范围估计，不可联系",
+      "unit": "handle:GIFT0001"
+    },
+    {
+      "reason": "身份未确认，仅可作范围估计，不可联系",
+      "unit": "handle:GIFT0050"
+    },
+    {
+      "reason": "身份未确认，仅可作范围估计，不可联系",
+      "unit": "handle:GIFT0064"
+    },
+    {
+      "reason": "身份未确认，仅可作范围估计，不可联系",
+      "unit": "handle:GIFT0106"
+    },
+    {
+      "reason": "身份未确认，仅可作范围估计，不可联系",
+      "unit": "handle:GIFT0162"
+    },
+    {
+      "reason": "身份未确认，仅可作范围估计，不可联系",
+      "unit": "handle:GIFT0169"
+    },
+    {
+      "reason": "身份未确认，仅可作范围估计，不可联系",
+      "unit": "handle:GIFT0190"
+    },
+    {
+      "reason": "身份未确认，仅可作范围估计，不可联系",
+      "unit": "handle:GIFT0197"
+    },
+    {
+      "reason": "身份未确认，仅可作范围估计，不可联系",
+      "unit": "handle:GIFT0211"
+    },
+    {
+      "reason": "身份未确认，仅可作范围估计，不可联系",
+      "unit": "handle:GIFT0267"
+    },
+    {
+      "reason": "身份未确认，仅可作范围估计，不可联系",
+      "unit": "handle:GIFT0323"
+    },
+    {
+      "reason": "身份未确认，仅可作范围估计，不可联系",
+      "unit": "handle:GIFT0337"
+    },
+    {
+      "reason": "身份未确认，仅可作范围估计，不可联系",
+      "unit": "handle:PEAK0"
+    },
+    {
+      "reason": "身份未确认，仅可作范围估计，不可联系",
+      "unit": "handle:PEAK2"
+    },
+    {
+      "reason": "身份未确认，仅可作范围估计，不可联系",
+      "unit": "handle:PEAK4"
+    },
+    {
+      "reason": "身份未确认，仅可作范围估计，不可联系",
+      "unit": "handle:PEAK6"
+    },
+    {
+      "reason": "身份未确认，仅可作范围估计，不可联系",
+      "unit": "handle:PEAK8"
+    },
+    {
+      "reason": "身份未确认，仅可作范围估计，不可联系",
+      "unit": "handle:SHOP0013"
+    },
+    {
+      "reason": "身份未确认，仅可作范围估计，不可联系",
+      "unit": "handle:SHOP0065"
+    },
+    {
+      "reason": "身份未确认，仅可作范围估计，不可联系",
+      "unit": "handle:SHOP0143"
+    },
+    {
+      "reason": "身份未确认，仅可作范围估计，不可联系",
+      "unit": "handle:SHOP0221"
+    },
+    {
+      "reason": "身份未确认，仅可作范围估计，不可联系",
+      "unit": "handle:SHOP0325"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0005"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0010"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0020"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0025"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0035"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0040"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0050"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0055"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0065"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0070"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0080"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0085"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0095"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0100"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0105"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0110"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0115"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0125"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0130"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0140"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0145"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0155"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0160"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0165"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0170"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0175"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0185"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0190"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0200"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0205"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0210"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0215"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0220"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0230"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0235"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0240"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0245"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0250"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0255"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0260"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0265"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0275"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0280"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0285"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0290"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0295"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0305"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0310"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0320"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0325"
+    },
+    {
+      "reason": "无联系权限或记录在发券时点尚不可见",
+      "unit": "payer:C0335"
+    }
+  ],
+  "expected": {
+    "coupon_units": 9,
+    "demonstrated_positive_effect": false,
+    "expected_incremental_margin_cents": -1827.458725029378,
+    "expected_incremental_margin_range_cents": [
+      -4788.662692443842,
+      981.7827706217405
+    ],
+    "expected_incremental_repurchases": -0.7429494712103408,
+    "expected_incremental_repurchases_range": [
+      -1.8437229125181336,
+      0.3572889282678645
+    ],
+    "extrapolation_boundary": "历史效应来自随机留量批次中在发券前已有完成购买、且距上次购买 11 天的单位；不能外推到长期未购、从未购买或未登录访客，也不能把第 30 天后的复购算进来。",
+    "historical_batch_mean_margin_cents": 535.070652173913,
+    "historical_estimate_label": "随机留量 ITT（主要）",
+    "historical_lift_ci_pp": [
+      -20.485810139090376,
+      3.96987698075405
+    ],
+    "historical_lift_p_value": 0.4911696101299567,
+    "historical_lift_pp": -8.254994124559342,
+    "historical_redemption_rate": 0.09424083769633508,
+    "holdout_units": 4,
+    "net_realized_cents": -3354.1602957100063,
+    "net_reserved_cents": -18027.458725029377,
+    "net_reserved_range_cents": [
+      -20988.662692443842,
+      -15218.21722937826
+    ],
+    "realized_coupon_cost_cents": 1526.7015706806285,
+    "reserved_coupon_cost_cents": 16200
+  },
+  "household_dedup_units": [],
+  "identity_coverage": {
+    "active_orders": 430,
+    "active_orders_confirmed": 408,
+    "cohort_rate_all": 0.25,
+    "cohort_rate_all_n": 340,
+    "cohort_rate_confirmed": 0.2631578947368421,
+    "cohort_rate_confirmed_n": 323,
+    "confirmed_units": 323,
+    "margin_share_confirmed": 0.9559113738366302,
+    "order_share_confirmed": 0.9488372093023256,
+    "unconfirmed_units": 22,
+    "units": 345
+  },
+  "notes": [
+    "主要历史效应为负且区间跨零，不能用它支持“发券能提升复购”的结论。",
+    "计划保留同层可比的不发券对象；券与留量按渠道×首购场景×最近购买间隔分层。",
+    "未登录访客只给整体留存范围，不进入任何联系名单。",
+    "多平台账户按已确认付款人合并为一个联系对象。"
+  ],
+  "outstanding_coupons": [
+    {
+      "cents": 1800,
+      "coupon": "NOV4",
+      "expires_at": "2026-11-27T20:00:00+08:00",
+      "sent_to": "PEAK4",
+      "unit": "handle:PEAK4"
+    }
+  ],
+  "request": {
+    "budget_cents": 18600,
+    "coupon_cents": 1800,
+    "days": 8,
+    "exclude_never_couponed_only": false,
+    "max_contacts_per_day": 5,
+    "min_days_since_last": 31,
+    "preserve_holdout_share": 0.3,
+    "segments": [
+      "自用",
+      "礼赠",
+      "团购"
+    ],
+    "start": "2026-11-19T09:00:00+08:00",
+    "valid_until": "2026-11-27T20:00:00+08:00"
+  }
+}

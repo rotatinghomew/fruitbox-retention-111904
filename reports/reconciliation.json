@@ -1,0 +1,21 @@
+{
+  "actual_coupon_mature": 0,
+  "actual_coupon_pending": 9,
+  "actual_coupon_repurchases": 0,
+  "actual_coupon_units": 9,
+  "actual_holdout_mature": 0,
+  "actual_holdout_pending": 4,
+  "actual_holdout_repurchases": 0,
+  "actual_holdout_units": 4,
+  "actual_incremental_repurchases": 0,
+  "actual_net_cents": null,
+  "actual_net_note": "未成熟或仍有待定单位时不给实际净收益，避免把未兑券当成券成本或把未到期当成失败。",
+  "actual_redeemed": 0,
+  "campaign": "week-2026-11-19",
+  "eligibility_as_of": "2026-11-18T20:00:00+08:00",
+  "forecast_incremental_repurchases": -0.7429494712103408,
+  "forecast_made_at": "2026-11-19T09:00:00+08:00",
+  "forecast_net_cents": -18027.458725029377,
+  "mature": false,
+  "note": "冻结的预测不改写；未成熟时只报告状态，不把未兑或未到期计成失败。实际增量只按已成熟单位计算，待定单位既不计入成功也不计入失败。"
+}

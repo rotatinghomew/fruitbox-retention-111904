@@ -1,0 +1,1089 @@
+{
+  "comparison_units_removed": 3,
+  "duplicate_coupons": 32,
+  "findings": [
+    {
+      "binding_known_at": "2026-06-21T10:05:00+08:00",
+      "comparison_units_removed": [],
+      "contact_slots_consumed": 1,
+      "coupons": [
+        {
+          "coupon": "K0000",
+          "issued_at": "2026-06-13T16:30:00+08:00",
+          "offer": "T0000",
+          "redeemed_by": "APP0000",
+          "sent_to": "APP0000",
+          "state": "已兑"
+        },
+        {
+          "coupon": "K0001",
+          "issued_at": "2026-06-14T16:30:00+08:00",
+          "offer": "T0001",
+          "redeemed_by": null,
+          "sent_to": "APP0001",
+          "state": "已发"
+        }
+      ],
+      "household": "hh:APP0000",
+      "note": "已兑权益不撤销；该户不再用作发券/不发券对照；后续联系只保留有权的一次；重复券继续占用预算与客服时段。",
+      "redeemed_kept": [
+        "K0000"
+      ],
+      "reserved_cents_consumed": 1800,
+      "unsent_contacts_dropped": [
+        "payer:C0000"
+      ],
+      "unsent_contacts_kept": [
+        "payer:C0001"
+      ]
+    },
+    {
+      "binding_known_at": "2026-07-07T10:05:00+08:00",
+      "comparison_units_removed": [],
+      "contact_slots_consumed": 1,
+      "coupons": [
+        {
+          "coupon": "K0016",
+          "issued_at": "2026-06-29T16:30:00+08:00",
+          "offer": "T0016",
+          "redeemed_by": null,
+          "sent_to": "APP0016",
+          "state": "已发"
+        },
+        {
+          "coupon": "K0017",
+          "issued_at": "2026-06-30T16:30:00+08:00",
+          "offer": "T0017",
+          "redeemed_by": null,
+          "sent_to": "APP0017",
+          "state": "已发"
+        }
+      ],
+      "household": "hh:APP0016",
+      "note": "已兑权益不撤销；该户不再用作发券/不发券对照；后续联系只保留有权的一次；重复券继续占用预算与客服时段。",
+      "redeemed_kept": [],
+      "reserved_cents_consumed": 1800,
+      "unsent_contacts_dropped": [
+        "payer:C0017"
+      ],
+      "unsent_contacts_kept": [
+        "payer:C0016"
+      ]
+    },
+    {
+      "binding_known_at": "2026-07-15T10:05:00+08:00",
+      "comparison_units_removed": [],
+      "contact_slots_consumed": 1,
+      "coupons": [
+        {
+          "coupon": "K0024",
+          "issued_at": "2026-07-07T16:30:00+08:00",
+          "offer": "T0024",
+          "redeemed_by": null,
+          "sent_to": "APP0024",
+          "state": "已发"
+        },
+        {
+          "coupon": "K0025",
+          "issued_at": "2026-07-08T16:30:00+08:00",
+          "offer": "T0025",
+          "redeemed_by": null,
+          "sent_to": "APP0025",
+          "state": "已发"
+        }
+      ],
+      "household": "hh:APP0024",
+      "note": "已兑权益不撤销；该户不再用作发券/不发券对照；后续联系只保留有权的一次；重复券继续占用预算与客服时段。",
+      "redeemed_kept": [],
+      "reserved_cents_consumed": 1800,
+      "unsent_contacts_dropped": [
+        "payer:C0025"
+      ],
+      "unsent_contacts_kept": [
+        "payer:C0024"
+      ]
+    },
+    {
+      "binding_known_at": "2026-07-31T10:05:00+08:00",
+      "comparison_units_removed": [],
+      "contact_slots_consumed": 1,
+      "coupons": [
+        {
+          "coupon": "K0040",
+          "issued_at": "2026-07-23T16:30:00+08:00",
+          "offer": "T0040",
+          "redeemed_by": null,
+          "sent_to": "APP0040",
+          "state": "已发"
+        },
+        {
+          "coupon": "K0041",
+          "issued_at": "2026-07-24T16:30:00+08:00",
+          "offer": "T0041",
+          "redeemed_by": null,
+          "sent_to": "APP0041",
+          "state": "已发"
+        }
+      ],
+      "household": "hh:APP0040",
+      "note": "已兑权益不撤销；该户不再用作发券/不发券对照；后续联系只保留有权的一次；重复券继续占用预算与客服时段。",
+      "redeemed_kept": [],
+      "reserved_cents_consumed": 1800,
+      "unsent_contacts_dropped": [
+        "payer:C0040"
+      ],
+      "unsent_contacts_kept": [
+        "payer:C0041"
+      ]
+    },
+    {
+      "binding_known_at": "2026-08-08T10:05:00+08:00",
+      "comparison_units_removed": [],
+      "contact_slots_consumed": 1,
+      "coupons": [
+        {
+          "coupon": "K0048",
+          "issued_at": "2026-07-31T16:30:00+08:00",
+          "offer": "T0048",
+          "redeemed_by": null,
+          "sent_to": "APP0048",
+          "state": "已发"
+        },
+        {
+          "coupon": "K0049",
+          "issued_at": "2026-08-01T16:30:00+08:00",
+          "offer": "T0049",
+          "redeemed_by": null,
+          "sent_to": "APP0049",
+          "state": "已发"
+        }
+      ],
+      "household": "hh:APP0048",
+      "note": "已兑权益不撤销；该户不再用作发券/不发券对照；后续联系只保留有权的一次；重复券继续占用预算与客服时段。",
+      "redeemed_kept": [],
+      "reserved_cents_consumed": 1800,
+      "unsent_contacts_dropped": [
+        "payer:C0049"
+      ],
+      "unsent_contacts_kept": [
+        "payer:C0048"
+      ]
+    },
+    {
+      "binding_known_at": "2026-08-16T10:05:00+08:00",
+      "comparison_units_removed": [],
+      "contact_slots_consumed": 1,
+      "coupons": [
+        {
+          "coupon": "K0056",
+          "issued_at": "2026-08-08T16:30:00+08:00",
+          "offer": "T0056",
+          "redeemed_by": null,
+          "sent_to": "APP0056",
+          "state": "已发"
+        },
+        {
+          "coupon": "K0057",
+          "issued_at": "2026-08-09T16:30:00+08:00",
+          "offer": "T0057",
+          "redeemed_by": null,
+          "sent_to": "APP0057",
+          "state": "已发"
+        }
+      ],
+      "household": "hh:APP0056",
+      "note": "已兑权益不撤销；该户不再用作发券/不发券对照；后续联系只保留有权的一次；重复券继续占用预算与客服时段。",
+      "redeemed_kept": [],
+      "reserved_cents_consumed": 1800,
+      "unsent_contacts_dropped": [
+        "payer:C0057"
+      ],
+      "unsent_contacts_kept": [
+        "payer:C0056"
+      ]
+    },
+    {
+      "binding_known_at": "2026-08-24T10:05:00+08:00",
+      "comparison_units_removed": [],
+      "contact_slots_consumed": 1,
+      "coupons": [
+        {
+          "coupon": "K0064",
+          "issued_at": "2026-08-16T16:30:00+08:00",
+          "offer": "T0064",
+          "redeemed_by": null,
+          "sent_to": "APP0064",
+          "state": "已发"
+        },
+        {
+          "coupon": "K0065",
+          "issued_at": "2026-08-17T16:30:00+08:00",
+          "offer": "T0065",
+          "redeemed_by": null,
+          "sent_to": "APP0065",
+          "state": "已发"
+        }
+      ],
+      "household": "hh:APP0064",
+      "note": "已兑权益不撤销；该户不再用作发券/不发券对照；后续联系只保留有权的一次；重复券继续占用预算与客服时段。",
+      "redeemed_kept": [],
+      "reserved_cents_consumed": 1800,
+      "unsent_contacts_dropped": [
+        "payer:C0065"
+      ],
+      "unsent_contacts_kept": [
+        "payer:C0064"
+      ]
+    },
+    {
+      "binding_known_at": "2026-09-01T10:05:00+08:00",
+      "comparison_units_removed": [],
+      "contact_slots_consumed": 1,
+      "coupons": [
+        {
+          "coupon": "K0072",
+          "issued_at": "2026-08-24T16:30:00+08:00",
+          "offer": "T0072",
+          "redeemed_by": "APP0072",
+          "sent_to": "APP0072",
+          "state": "已兑"
+        },
+        {
+          "coupon": "K0073",
+          "issued_at": "2026-08-25T16:30:00+08:00",
+          "offer": "T0073",
+          "redeemed_by": null,
+          "sent_to": "APP0073",
+          "state": "已发"
+        }
+      ],
+      "household": "hh:APP0072",
+      "note": "已兑权益不撤销；该户不再用作发券/不发券对照；后续联系只保留有权的一次；重复券继续占用预算与客服时段。",
+      "redeemed_kept": [
+        "K0072"
+      ],
+      "reserved_cents_consumed": 1800,
+      "unsent_contacts_dropped": [
+        "payer:C0073"
+      ],
+      "unsent_contacts_kept": [
+        "payer:C0072"
+      ]
+    },
+    {
+      "binding_known_at": "2026-09-09T10:05:00+08:00",
+      "comparison_units_removed": [],
+      "contact_slots_consumed": 1,
+      "coupons": [
+        {
+          "coupon": "K0080",
+          "issued_at": "2026-09-01T16:30:00+08:00",
+          "offer": "T0080",
+          "redeemed_by": null,
+          "sent_to": "APP0080",
+          "state": "已发"
+        },
+        {
+          "coupon": "K0081",
+          "issued_at": "2026-09-02T16:30:00+08:00",
+          "offer": "T0081",
+          "redeemed_by": "SHOP0081",
+          "sent_to": "APP0081",
+          "state": "已兑"
+        }
+      ],
+      "household": "hh:APP0080",
+      "note": "已兑权益不撤销；该户不再用作发券/不发券对照；后续联系只保留有权的一次；重复券继续占用预算与客服时段。",
+      "redeemed_kept": [
+        "K0081"
+      ],
+      "reserved_cents_consumed": 1800,
+      "unsent_contacts_dropped": [
+        "payer:C0080"
+      ],
+      "unsent_contacts_kept": [
+        "payer:C0081"
+      ]
+    },
+    {
+      "binding_known_at": "2026-09-17T10:05:00+08:00",
+      "comparison_units_removed": [],
+      "contact_slots_consumed": 1,
+      "coupons": [
+        {
+          "coupon": "K0088",
+          "issued_at": "2026-09-09T16:30:00+08:00",
+          "offer": "T0088",
+          "redeemed_by": null,
+          "sent_to": "APP0088",
+          "state": "已发"
+        },
+        {
+          "coupon": "K0089",
+          "issued_at": "2026-09-10T16:30:00+08:00",
+          "offer": "T0089",
+          "redeemed_by": null,
+          "sent_to": "APP0089",
+          "state": "已发"
+        }
+      ],
+      "household": "hh:APP0088",
+      "note": "已兑权益不撤销；该户不再用作发券/不发券对照；后续联系只保留有权的一次；重复券继续占用预算与客服时段。",
+      "redeemed_kept": [],
+      "reserved_cents_consumed": 1800,
+      "unsent_contacts_dropped": [
+        "payer:C0089"
+      ],
+      "unsent_contacts_kept": [
+        "payer:C0088"
+      ]
+    },
+    {
+      "binding_known_at": "2026-09-25T10:05:00+08:00",
+      "comparison_units_removed": [],
+      "contact_slots_consumed": 1,
+      "coupons": [
+        {
+          "coupon": "K0096",
+          "issued_at": "2026-09-17T16:30:00+08:00",
+          "offer": "T0096",
+          "redeemed_by": null,
+          "sent_to": "APP0096",
+          "state": "已发"
+        },
+        {
+          "coupon": "K0097",
+          "issued_at": "2026-09-18T16:30:00+08:00",
+          "offer": "T0097",
+          "redeemed_by": null,
+          "sent_to": "APP0097",
+          "state": "已发"
+        }
+      ],
+      "household": "hh:APP0096",
+      "note": "已兑权益不撤销；该户不再用作发券/不发券对照；后续联系只保留有权的一次；重复券继续占用预算与客服时段。",
+      "redeemed_kept": [],
+      "reserved_cents_consumed": 1800,
+      "unsent_contacts_dropped": [
+        "payer:C0097"
+      ],
+      "unsent_contacts_kept": [
+        "payer:C0096"
+      ]
+    },
+    {
+      "binding_known_at": "2026-06-21T10:05:00+08:00",
+      "comparison_units_removed": [],
+      "contact_slots_consumed": 1,
+      "coupons": [
+        {
+          "coupon": "K0104",
+          "issued_at": "2026-06-13T16:30:00+08:00",
+          "offer": "T0104",
+          "redeemed_by": null,
+          "sent_to": "APP0104",
+          "state": "已发"
+        },
+        {
+          "coupon": "K0105",
+          "issued_at": "2026-06-14T16:30:00+08:00",
+          "offer": "T0105",
+          "redeemed_by": null,
+          "sent_to": "APP0105",
+          "state": "已发"
+        }
+      ],
+      "household": "hh:APP0104",
+      "note": "已兑权益不撤销；该户不再用作发券/不发券对照；后续联系只保留有权的一次；重复券继续占用预算与客服时段。",
+      "redeemed_kept": [],
+      "reserved_cents_consumed": 1800,
+      "unsent_contacts_dropped": [
+        "payer:C0105"
+      ],
+      "unsent_contacts_kept": [
+        "payer:C0104"
+      ]
+    },
+    {
+      "binding_known_at": "2026-06-29T10:05:00+08:00",
+      "comparison_units_removed": [],
+      "contact_slots_consumed": 1,
+      "coupons": [
+        {
+          "coupon": "K0112",
+          "issued_at": "2026-06-21T16:30:00+08:00",
+          "offer": "T0112",
+          "redeemed_by": null,
+          "sent_to": "APP0112",
+          "state": "已发"
+        },
+        {
+          "coupon": "K0113",
+          "issued_at": "2026-06-22T16:30:00+08:00",
+          "offer": "T0113",
+          "redeemed_by": null,
+          "sent_to": "APP0113",
+          "state": "已发"
+        }
+      ],
+      "household": "hh:APP0112",
+      "note": "已兑权益不撤销；该户不再用作发券/不发券对照；后续联系只保留有权的一次；重复券继续占用预算与客服时段。",
+      "redeemed_kept": [],
+      "reserved_cents_consumed": 1800,
+      "unsent_contacts_dropped": [
+        "payer:C0113"
+      ],
+      "unsent_contacts_kept": [
+        "payer:C0112"
+      ]
+    },
+    {
+      "binding_known_at": "2026-07-07T10:05:00+08:00",
+      "comparison_units_removed": [],
+      "contact_slots_consumed": 1,
+      "coupons": [
+        {
+          "coupon": "K0120",
+          "issued_at": "2026-06-29T16:30:00+08:00",
+          "offer": "T0120",
+          "redeemed_by": null,
+          "sent_to": "APP0120",
+          "state": "已发"
+        },
+        {
+          "coupon": "K0121",
+          "issued_at": "2026-06-30T16:30:00+08:00",
+          "offer": "T0121",
+          "redeemed_by": null,
+          "sent_to": "APP0121",
+          "state": "已发"
+        }
+      ],
+      "household": "hh:APP0120",
+      "note": "已兑权益不撤销；该户不再用作发券/不发券对照；后续联系只保留有权的一次；重复券继续占用预算与客服时段。",
+      "redeemed_kept": [],
+      "reserved_cents_consumed": 1800,
+      "unsent_contacts_dropped": [
+        "payer:C0120"
+      ],
+      "unsent_contacts_kept": [
+        "payer:C0121"
+      ]
+    },
+    {
+      "binding_known_at": "2026-07-31T10:05:00+08:00",
+      "comparison_units_removed": [],
+      "contact_slots_consumed": 1,
+      "coupons": [
+        {
+          "coupon": "K0144",
+          "issued_at": "2026-07-23T16:30:00+08:00",
+          "offer": "T0144",
+          "redeemed_by": "APP0144",
+          "sent_to": "APP0144",
+          "state": "已兑"
+        },
+        {
+          "coupon": "K0145",
+          "issued_at": "2026-07-24T16:30:00+08:00",
+          "offer": "T0145",
+          "redeemed_by": null,
+          "sent_to": "APP0145",
+          "state": "已发"
+        }
+      ],
+      "household": "hh:APP0144",
+      "note": "已兑权益不撤销；该户不再用作发券/不发券对照；后续联系只保留有权的一次；重复券继续占用预算与客服时段。",
+      "redeemed_kept": [
+        "K0144"
+      ],
+      "reserved_cents_consumed": 1800,
+      "unsent_contacts_dropped": [
+        "payer:C0145"
+      ],
+      "unsent_contacts_kept": [
+        "payer:C0144"
+      ]
+    },
+    {
+      "binding_known_at": "2026-08-16T10:05:00+08:00",
+      "comparison_units_removed": [],
+      "contact_slots_consumed": 1,
+      "coupons": [
+        {
+          "coupon": "K0160",
+          "issued_at": "2026-08-08T16:30:00+08:00",
+          "offer": "T0160",
+          "redeemed_by": null,
+          "sent_to": "APP0160",
+          "state": "已发"
+        },
+        {
+          "coupon": "K0161",
+          "issued_at": "2026-08-09T16:30:00+08:00",
+          "offer": "T0161",
+          "redeemed_by": null,
+          "sent_to": "APP0161",
+          "state": "已发"
+        }
+      ],
+      "household": "hh:APP0160",
+      "note": "已兑权益不撤销；该户不再用作发券/不发券对照；后续联系只保留有权的一次；重复券继续占用预算与客服时段。",
+      "redeemed_kept": [],
+      "reserved_cents_consumed": 1800,
+      "unsent_contacts_dropped": [
+        "payer:C0160"
+      ],
+      "unsent_contacts_kept": [
+        "payer:C0161"
+      ]
+    },
+    {
+      "binding_known_at": "2026-08-24T10:05:00+08:00",
+      "comparison_units_removed": [],
+      "contact_slots_consumed": 1,
+      "coupons": [
+        {
+          "coupon": "K0168",
+          "issued_at": "2026-08-16T16:30:00+08:00",
+          "offer": "T0168",
+          "redeemed_by": null,
+          "sent_to": "APP0168",
+          "state": "已发"
+        },
+        {
+          "coupon": "K0169",
+          "issued_at": "2026-08-17T16:30:00+08:00",
+          "offer": "T0169",
+          "redeemed_by": null,
+          "sent_to": "APP0169",
+          "state": "已发"
+        }
+      ],
+      "household": "hh:APP0168",
+      "note": "已兑权益不撤销；该户不再用作发券/不发券对照；后续联系只保留有权的一次；重复券继续占用预算与客服时段。",
+      "redeemed_kept": [],
+      "reserved_cents_consumed": 1800,
+      "unsent_contacts_dropped": [
+        "payer:C0169"
+      ],
+      "unsent_contacts_kept": [
+        "payer:C0168"
+      ]
+    },
+    {
+      "binding_known_at": "2026-09-01T10:05:00+08:00",
+      "comparison_units_removed": [],
+      "contact_slots_consumed": 1,
+      "coupons": [
+        {
+          "coupon": "K0176",
+          "issued_at": "2026-08-24T16:30:00+08:00",
+          "offer": "T0176",
+          "redeemed_by": null,
+          "sent_to": "APP0176",
+          "state": "已发"
+        },
+        {
+          "coupon": "K0177",
+          "issued_at": "2026-08-25T16:30:00+08:00",
+          "offer": "T0177",
+          "redeemed_by": null,
+          "sent_to": "APP0177",
+          "state": "已发"
+        }
+      ],
+      "household": "hh:APP0176",
+      "note": "已兑权益不撤销；该户不再用作发券/不发券对照；后续联系只保留有权的一次；重复券继续占用预算与客服时段。",
+      "redeemed_kept": [],
+      "reserved_cents_consumed": 1800,
+      "unsent_contacts_dropped": [
+        "payer:C0177"
+      ],
+      "unsent_contacts_kept": [
+        "payer:C0176"
+      ]
+    },
+    {
+      "binding_known_at": "2026-09-17T10:05:00+08:00",
+      "comparison_units_removed": [],
+      "contact_slots_consumed": 1,
+      "coupons": [
+        {
+          "coupon": "K0192",
+          "issued_at": "2026-09-09T16:30:00+08:00",
+          "offer": "T0192",
+          "redeemed_by": null,
+          "sent_to": "APP0192",
+          "state": "已发"
+        },
+        {
+          "coupon": "K0193",
+          "issued_at": "2026-09-10T16:30:00+08:00",
+          "offer": "T0193",
+          "redeemed_by": null,
+          "sent_to": "APP0193",
+          "state": "已发"
+        }
+      ],
+      "household": "hh:APP0192",
+      "note": "已兑权益不撤销；该户不再用作发券/不发券对照；后续联系只保留有权的一次；重复券继续占用预算与客服时段。",
+      "redeemed_kept": [],
+      "reserved_cents_consumed": 1800,
+      "unsent_contacts_dropped": [
+        "payer:C0193"
+      ],
+      "unsent_contacts_kept": [
+        "payer:C0192"
+      ]
+    },
+    {
+      "binding_known_at": "2026-09-25T10:05:00+08:00",
+      "comparison_units_removed": [],
+      "contact_slots_consumed": 1,
+      "coupons": [
+        {
+          "coupon": "K0200",
+          "issued_at": "2026-09-17T16:30:00+08:00",
+          "offer": "T0200",
+          "redeemed_by": null,
+          "sent_to": "APP0200",
+          "state": "已发"
+        },
+        {
+          "coupon": "K0201",
+          "issued_at": "2026-09-18T16:30:00+08:00",
+          "offer": "T0201",
+          "redeemed_by": null,
+          "sent_to": "APP0201",
+          "state": "已发"
+        }
+      ],
+      "household": "hh:APP0200",
+      "note": "已兑权益不撤销；该户不再用作发券/不发券对照；后续联系只保留有权的一次；重复券继续占用预算与客服时段。",
+      "redeemed_kept": [],
+      "reserved_cents_consumed": 1800,
+      "unsent_contacts_dropped": [
+        "payer:C0200"
+      ],
+      "unsent_contacts_kept": [
+        "payer:C0201"
+      ]
+    },
+    {
+      "binding_known_at": "2026-06-29T10:05:00+08:00",
+      "comparison_units_removed": [],
+      "contact_slots_consumed": 1,
+      "coupons": [
+        {
+          "coupon": "K0216",
+          "issued_at": "2026-06-21T16:30:00+08:00",
+          "offer": "T0216",
+          "redeemed_by": "APP0216",
+          "sent_to": "APP0216",
+          "state": "已兑"
+        },
+        {
+          "coupon": "K0217",
+          "issued_at": "2026-06-22T16:30:00+08:00",
+          "offer": "T0217",
+          "redeemed_by": null,
+          "sent_to": "APP0217",
+          "state": "已发"
+        }
+      ],
+      "household": "hh:APP0216",
+      "note": "已兑权益不撤销；该户不再用作发券/不发券对照；后续联系只保留有权的一次；重复券继续占用预算与客服时段。",
+      "redeemed_kept": [
+        "K0216"
+      ],
+      "reserved_cents_consumed": 1800,
+      "unsent_contacts_dropped": [
+        "payer:C0217"
+      ],
+      "unsent_contacts_kept": [
+        "payer:C0216"
+      ]
+    },
+    {
+      "binding_known_at": "2026-07-07T10:05:00+08:00",
+      "comparison_units_removed": [],
+      "contact_slots_consumed": 1,
+      "coupons": [
+        {
+          "coupon": "K0224",
+          "issued_at": "2026-06-29T16:30:00+08:00",
+          "offer": "T0224",
+          "redeemed_by": null,
+          "sent_to": "APP0224",
+          "state": "已发"
+        },
+        {
+          "coupon": "K0225",
+          "issued_at": "2026-06-30T16:30:00+08:00",
+          "offer": "T0225",
+          "redeemed_by": "SHOP0225",
+          "sent_to": "APP0225",
+          "state": "已兑"
+        }
+      ],
+      "household": "hh:APP0224",
+      "note": "已兑权益不撤销；该户不再用作发券/不发券对照；后续联系只保留有权的一次；重复券继续占用预算与客服时段。",
+      "redeemed_kept": [
+        "K0225"
+      ],
+      "reserved_cents_consumed": 1800,
+      "unsent_contacts_dropped": [
+        "payer:C0225"
+      ],
+      "unsent_contacts_kept": [
+        "payer:C0224"
+      ]
+    },
+    {
+      "binding_known_at": "2026-07-15T10:05:00+08:00",
+      "comparison_units_removed": [],
+      "contact_slots_consumed": 1,
+      "coupons": [
+        {
+          "coupon": "K0232",
+          "issued_at": "2026-07-07T16:30:00+08:00",
+          "offer": "T0232",
+          "redeemed_by": null,
+          "sent_to": "APP0232",
+          "state": "已发"
+        },
+        {
+          "coupon": "K0233",
+          "issued_at": "2026-07-08T16:30:00+08:00",
+          "offer": "T0233",
+          "redeemed_by": null,
+          "sent_to": "APP0233",
+          "state": "已发"
+        }
+      ],
+      "household": "hh:APP0232",
+      "note": "已兑权益不撤销；该户不再用作发券/不发券对照；后续联系只保留有权的一次；重复券继续占用预算与客服时段。",
+      "redeemed_kept": [],
+      "reserved_cents_consumed": 1800,
+      "unsent_contacts_dropped": [
+        "payer:C0233"
+      ],
+      "unsent_contacts_kept": [
+        "payer:C0232"
+      ]
+    },
+    {
+      "binding_known_at": "2026-07-23T10:05:00+08:00",
+      "comparison_units_removed": [],
+      "contact_slots_consumed": 1,
+      "coupons": [
+        {
+          "coupon": "K0240",
+          "issued_at": "2026-07-15T16:30:00+08:00",
+          "offer": "T0240",
+          "redeemed_by": null,
+          "sent_to": "APP0240",
+          "state": "已发"
+        },
+        {
+          "coupon": "K0241",
+          "issued_at": "2026-07-16T16:30:00+08:00",
+          "offer": "T0241",
+          "redeemed_by": null,
+          "sent_to": "APP0241",
+          "state": "已发"
+        }
+      ],
+      "household": "hh:APP0240",
+      "note": "已兑权益不撤销；该户不再用作发券/不发券对照；后续联系只保留有权的一次；重复券继续占用预算与客服时段。",
+      "redeemed_kept": [],
+      "reserved_cents_consumed": 1800,
+      "unsent_contacts_dropped": [
+        "payer:C0240"
+      ],
+      "unsent_contacts_kept": [
+        "payer:C0241"
+      ]
+    },
+    {
+      "binding_known_at": "2026-08-08T10:05:00+08:00",
+      "comparison_units_removed": [],
+      "contact_slots_consumed": 1,
+      "coupons": [
+        {
+          "coupon": "K0256",
+          "issued_at": "2026-07-31T16:30:00+08:00",
+          "offer": "T0256",
+          "redeemed_by": null,
+          "sent_to": "APP0256",
+          "state": "已发"
+        },
+        {
+          "coupon": "K0257",
+          "issued_at": "2026-08-01T16:30:00+08:00",
+          "offer": "T0257",
+          "redeemed_by": null,
+          "sent_to": "APP0257",
+          "state": "已发"
+        }
+      ],
+      "household": "hh:APP0256",
+      "note": "已兑权益不撤销；该户不再用作发券/不发券对照；后续联系只保留有权的一次；重复券继续占用预算与客服时段。",
+      "redeemed_kept": [],
+      "reserved_cents_consumed": 1800,
+      "unsent_contacts_dropped": [
+        "payer:C0257"
+      ],
+      "unsent_contacts_kept": [
+        "payer:C0256"
+      ]
+    },
+    {
+      "binding_known_at": "2026-08-16T10:05:00+08:00",
+      "comparison_units_removed": [],
+      "contact_slots_consumed": 1,
+      "coupons": [
+        {
+          "coupon": "K0264",
+          "issued_at": "2026-08-08T16:30:00+08:00",
+          "offer": "T0264",
+          "redeemed_by": null,
+          "sent_to": "APP0264",
+          "state": "已发"
+        },
+        {
+          "coupon": "K0265",
+          "issued_at": "2026-08-09T16:30:00+08:00",
+          "offer": "T0265",
+          "redeemed_by": null,
+          "sent_to": "APP0265",
+          "state": "已发"
+        }
+      ],
+      "household": "hh:APP0264",
+      "note": "已兑权益不撤销；该户不再用作发券/不发券对照；后续联系只保留有权的一次；重复券继续占用预算与客服时段。",
+      "redeemed_kept": [],
+      "reserved_cents_consumed": 1800,
+      "unsent_contacts_dropped": [
+        "payer:C0265"
+      ],
+      "unsent_contacts_kept": [
+        "payer:C0264"
+      ]
+    },
+    {
+      "binding_known_at": "2026-08-24T10:05:00+08:00",
+      "comparison_units_removed": [],
+      "contact_slots_consumed": 1,
+      "coupons": [
+        {
+          "coupon": "K0272",
+          "issued_at": "2026-08-16T16:30:00+08:00",
+          "offer": "T0272",
+          "redeemed_by": null,
+          "sent_to": "APP0272",
+          "state": "已发"
+        },
+        {
+          "coupon": "K0273",
+          "issued_at": "2026-08-17T16:30:00+08:00",
+          "offer": "T0273",
+          "redeemed_by": null,
+          "sent_to": "APP0273",
+          "state": "已发"
+        }
+      ],
+      "household": "hh:APP0272",
+      "note": "已兑权益不撤销；该户不再用作发券/不发券对照；后续联系只保留有权的一次；重复券继续占用预算与客服时段。",
+      "redeemed_kept": [],
+      "reserved_cents_consumed": 1800,
+      "unsent_contacts_dropped": [
+        "payer:C0273"
+      ],
+      "unsent_contacts_kept": [
+        "payer:C0272"
+      ]
+    },
+    {
+      "binding_known_at": "2026-09-09T10:05:00+08:00",
+      "comparison_units_removed": [],
+      "contact_slots_consumed": 1,
+      "coupons": [
+        {
+          "coupon": "K0288",
+          "issued_at": "2026-09-01T16:30:00+08:00",
+          "offer": "T0288",
+          "redeemed_by": "APP0288",
+          "sent_to": "APP0288",
+          "state": "已兑"
+        },
+        {
+          "coupon": "K0289",
+          "issued_at": "2026-09-02T16:30:00+08:00",
+          "offer": "T0289",
+          "redeemed_by": null,
+          "sent_to": "APP0289",
+          "state": "已发"
+        }
+      ],
+      "household": "hh:APP0288",
+      "note": "已兑权益不撤销；该户不再用作发券/不发券对照；后续联系只保留有权的一次；重复券继续占用预算与客服时段。",
+      "redeemed_kept": [
+        "K0288"
+      ],
+      "reserved_cents_consumed": 1800,
+      "unsent_contacts_dropped": [
+        "payer:C0289"
+      ],
+      "unsent_contacts_kept": [
+        "payer:C0288"
+      ]
+    },
+    {
+      "binding_known_at": "2026-06-29T10:05:00+08:00",
+      "comparison_units_removed": [],
+      "contact_slots_consumed": 1,
+      "coupons": [
+        {
+          "coupon": "K0320",
+          "issued_at": "2026-06-21T16:30:00+08:00",
+          "offer": "T0320",
+          "redeemed_by": null,
+          "sent_to": "APP0320",
+          "state": "已发"
+        },
+        {
+          "coupon": "K0321",
+          "issued_at": "2026-06-22T16:30:00+08:00",
+          "offer": "T0321",
+          "redeemed_by": null,
+          "sent_to": "APP0321",
+          "state": "已发"
+        }
+      ],
+      "household": "hh:APP0320",
+      "note": "已兑权益不撤销；该户不再用作发券/不发券对照；后续联系只保留有权的一次；重复券继续占用预算与客服时段。",
+      "redeemed_kept": [],
+      "reserved_cents_consumed": 1800,
+      "unsent_contacts_dropped": [
+        "payer:C0320"
+      ],
+      "unsent_contacts_kept": [
+        "payer:C0321"
+      ]
+    },
+    {
+      "binding_known_at": "2026-07-07T10:05:00+08:00",
+      "comparison_units_removed": [],
+      "contact_slots_consumed": 1,
+      "coupons": [
+        {
+          "coupon": "K0328",
+          "issued_at": "2026-06-29T16:30:00+08:00",
+          "offer": "T0328",
+          "redeemed_by": null,
+          "sent_to": "APP0328",
+          "state": "已发"
+        },
+        {
+          "coupon": "K0329",
+          "issued_at": "2026-06-30T16:30:00+08:00",
+          "offer": "T0329",
+          "redeemed_by": null,
+          "sent_to": "APP0329",
+          "state": "已发"
+        }
+      ],
+      "household": "hh:APP0328",
+      "note": "已兑权益不撤销；该户不再用作发券/不发券对照；后续联系只保留有权的一次；重复券继续占用预算与客服时段。",
+      "redeemed_kept": [],
+      "reserved_cents_consumed": 1800,
+      "unsent_contacts_dropped": [
+        "payer:C0329"
+      ],
+      "unsent_contacts_kept": [
+        "payer:C0328"
+      ]
+    },
+    {
+      "binding_known_at": "2026-07-15T10:05:00+08:00",
+      "comparison_units_removed": [],
+      "contact_slots_consumed": 1,
+      "coupons": [
+        {
+          "coupon": "K0336",
+          "issued_at": "2026-07-07T16:30:00+08:00",
+          "offer": "T0336",
+          "redeemed_by": null,
+          "sent_to": "APP0336",
+          "state": "已发"
+        },
+        {
+          "coupon": "K0337",
+          "issued_at": "2026-07-08T16:30:00+08:00",
+          "offer": "T0337",
+          "redeemed_by": null,
+          "sent_to": "APP0337",
+          "state": "已发"
+        }
+      ],
+      "household": "hh:APP0336",
+      "note": "已兑权益不撤销；该户不再用作发券/不发券对照；后续联系只保留有权的一次；重复券继续占用预算与客服时段。",
+      "redeemed_kept": [],
+      "reserved_cents_consumed": 1800,
+      "unsent_contacts_dropped": [
+        "payer:C0337"
+      ],
+      "unsent_contacts_kept": [
+        "payer:C0336"
+      ]
+    },
+    {
+      "binding_known_at": "2026-11-16T15:00:00+08:00",
+      "comparison_units_removed": [
+        "TN0",
+        "TN2",
+        "TN4"
+      ],
+      "contact_slots_consumed": 1,
+      "coupons": [
+        {
+          "coupon": "NOV0",
+          "issued_at": "2026-11-12T09:00:00+08:00",
+          "offer": "TN0",
+          "redeemed_by": "PEAK0",
+          "sent_to": "PEAK0",
+          "state": "已兑"
+        },
+        {
+          "coupon": "NOV4",
+          "issued_at": "2026-11-12T09:00:00+08:00",
+          "offer": "TN4",
+          "redeemed_by": null,
+          "sent_to": "PEAK4",
+          "state": "已发"
+        }
+      ],
+      "household": "hh:PEAK0",
+      "note": "已兑权益不撤销；该户不再用作发券/不发券对照；后续联系只保留有权的一次；重复券继续占用预算与客服时段。",
+      "redeemed_kept": [
+        "NOV0"
+      ],
+      "reserved_cents_consumed": 1800,
+      "unsent_contacts_dropped": [
+        "handle:PEAK4"
+      ],
+      "unsent_contacts_kept": [
+        "handle:PEAK0"
+      ]
+    }
+  ],
+  "households_affected": 32,
+  "households_with_two_coupons": 32,
+  "late_bound_randomized_offers": 76,
+  "note": "晚绑定只影响此后判断，不改写绑定前已完成的分配。",
+  "randomized_offers_remaining": 291,
+  "randomized_offers_total": 294,
+  "reserved_cents_consumed": 57600
+}
